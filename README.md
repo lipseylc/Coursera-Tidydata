@@ -4,6 +4,7 @@ Class project for Coursera "Getting and Cleaning Data"
 The script "run_analysis.R" is intended to work with the 
 "Human Activity Recognition Using Smartphones Data Set" available at 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 That data set should be extracted to the working directory in order for the script to work
 
 run_analysis script will take the HAR data as downloaded and:
