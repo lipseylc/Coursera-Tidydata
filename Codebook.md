@@ -35,6 +35,14 @@ mean(): Mean value
 
 std(): Standard deviation
 
-These values are available as means per (combination of subject and activity).
+These values are available as means and standard deviations per (combination of subject and activity), i.e.:
+- mean for subject 1 activity 1
+- std for subject 1 activity 1
+- mean for subject 2 activity 1
+- std for subject 2 activity 1
+- ...
+- mean for subject 1 activity 2
+- std for subject 1 activity 2
+- etc.
 
 The complete original list of variables of each feature vector is available in 'features.txt'
