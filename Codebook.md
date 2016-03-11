@@ -32,6 +32,7 @@ A set of variables were estimated from these values, but
 were reduced to mean and standard deviation for purposes of analysis:
 
 mean(): Mean value
+
 std(): Standard deviation
 
 These values are available as means per (combination of subject and activity).
